@@ -21,5 +21,5 @@ Rules:
    - Pliers -> Furnace and Fuse-box
    - Screwdriver -> Ballistic Separator and Magnet
  - The following equipment can kill you if it is functioning and if you land on top of it:
-    Grinder, 
-    Conveyor Belt
+    - Grinder 
+    - Conveyor Belt
