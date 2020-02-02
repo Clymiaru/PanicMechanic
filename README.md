@@ -1,5 +1,9 @@
 # PanicMechanic
 SFML Game for Global Game Jam
+
+Objective:
+ - You can repair up to 5 damaged equipment within 20 seconds
+
 Controls:
  W/Spacebar - Jump
  A - Move Left
@@ -16,3 +20,6 @@ Rules:
     Wrench -> Grinder and Conveyor Belt
     Pliers -> Furnace and Fuse-box
     Screwdriver -> Ballistic Separator and Magnet
+ - The following equipment can kill you if it is functioning and if you land on top of it:
+    Grinder
+    Conveyor Belt
