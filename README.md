@@ -5,12 +5,12 @@ Objective:
  - You can repair up to 5 damaged equipment within 20 seconds
 
 Controls:
- W/Spacebar - Jump
- A - Move Left
- D - Move Right
- J - Wrench
- K - Pliers
- L - Screwdriver
+ - W/Spacebar - Jump
+ - A - Move Left
+ - D - Move Right
+ - J - Wrench
+ - K - Pliers
+ - L - Screwdriver
  
 Rules:
  - Damaged equipment are darker than normal
@@ -21,5 +21,5 @@ Rules:
     Pliers -> Furnace and Fuse-box
     Screwdriver -> Ballistic Separator and Magnet
  - The following equipment can kill you if it is functioning and if you land on top of it:
-    Grinder
+    Grinder, 
     Conveyor Belt
