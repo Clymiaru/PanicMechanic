@@ -23,3 +23,4 @@ Rules:
  - The following equipment can kill you if it is functioning and if you land on top of it:
     - Grinder 
     - Conveyor Belt
+    - Ballistic Separator
